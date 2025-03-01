@@ -1,0 +1,90 @@
+﻿
+   * {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+body {
+    background-color: #380f0f;
+}
+ul{ 
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+    padding-top: 20px;
+    list-style: none;
+    display: flex;
+    margin: 0px;
+    background-color: black;
+}
+    ul li {
+        background-color: black;
+        padding: 5px 10px;
+        margin: 20px 0px;
+        border: 1px solid white;
+        margin-left: 180px;
+    }
+        ul li:hover {
+            background-color: #780e0e;
+            padding: 10px 15px;
+            margin: 20px 20px;
+        }
+        .text {
+            padding: 10px 30px;
+            background-color: black;
+            color: white;
+        }
+.main {
+    color: black;
+    background-color: #780e0e;
+    padding: 5px 10x;
+    margin: 20px 0px;
+    border: 1px solid #780e0e;
+    margin-left: 20px;
+    height: 50px;
+    width: 400px;
+}
+    .main:hover {
+        background-color: #780e0e;
+        padding: 5px 10px;
+        margin: 0px 20px
+    }
+    .main p {
+        list-style: none;
+        display: flex;
+        margin: 0px;
+        width: 300px;
+        margin-left: 70px;
+        margin-top: 15px;
+    }
+    .card {
+        height: 200px;
+        width: 300px;
+        border-radius: 10px;
+        margin-left: 752px;
+    }
+    .card img{ 
+        width: 400px;
+        height: auto;
+        margin-left: 190px;
+    }
+.contein {
+    background-color: #541616;
+    height: 500px;
+    width: 750px;
+    margin-top: -200px;
+}
+.text_2{
+    font-size: 25px;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.text_2 {
+    
+    font-family: "Great Vibes", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
